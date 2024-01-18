@@ -42,7 +42,7 @@
     <lyricsDashMaxDistance>16</lyricsDashMaxDistance>
     <lyricsDashForce>1</lyricsDashForce>
     <lyricsAlignVerseNumber>1</lyricsAlignVerseNumber>
-    <lyricsLineThickness>0.16</lyricsLineThickness>
+    <lyricsLineThickness>0.1</lyricsLineThickness>
     <lyricsMelismaAlign>left,baseline</lyricsMelismaAlign>
     <lyricsMelismaPad>0.1</lyricsMelismaPad>
     <lyricsDashPad>0.05</lyricsDashPad>
@@ -87,11 +87,11 @@
     <endBarWidth>0.5</endBarWidth>
     <doubleBarDistance>0.4</doubleBarDistance>
     <endBarDistance>0.4</endBarDistance>
-    <repeatBarlineDotSeparation>0.16</repeatBarlineDotSeparation>
+    <repeatBarlineDotSeparation>0.4</repeatBarlineDotSeparation>
     <repeatBarTips>0</repeatBarTips>
     <startBarlineSingle>0</startBarlineSingle>
     <startBarlineMultiple>1</startBarlineMultiple>
-    <bracketWidth>0.5</bracketWidth>
+    <bracketWidth>0.45</bracketWidth>
     <bracketDistance>0.45</bracketDistance>
     <akkoladeWidth>1.5</akkoladeWidth>
     <akkoladeBarDistance>0.35</akkoladeBarDistance>
@@ -120,7 +120,7 @@
     <clefBarlineDistance>0.5</clefBarlineDistance>
     <timesigBarlineDistance>0.5</timesigBarlineDistance>
     <useStraightNoteFlags>0</useStraightNoteFlags>
-    <stemWidth>0.12</stemWidth>
+    <stemWidth>0.13</stemWidth>
     <shortenStem>1</shortenStem>
     <stemLength>3.5</stemLength>
     <stemLengthSmall>2.25</stemLengthSmall>
@@ -138,9 +138,9 @@
     <mrNumberSeriesWithParentheses>1</mrNumberSeriesWithParentheses>
     <oneMeasureRepeatShow1>0</oneMeasureRepeatShow1>
     <fourMeasureRepeatShowExtenders>0</fourMeasureRepeatShowExtenders>
-    <staffLineWidth>0.13</staffLineWidth>
+    <staffLineWidth>0.08</staffLineWidth>
     <ledgerLineWidth>0.16</ledgerLineWidth>
-    <ledgerLineLength>0.4</ledgerLineLength>
+    <ledgerLineLength>0.38</ledgerLineLength>
     <stemSlashPosition>2</stemSlashPosition>
     <stemSlashAngle>40</stemSlashAngle>
     <stemSlashThickness>0.125</stemSlashThickness>
@@ -177,7 +177,7 @@
     <hairpinLinePosBelow x="0" y="4"/>
     <hairpinHeight>1.15</hairpinHeight>
     <hairpinContHeight>0.5</hairpinContHeight>
-    <hairpinWidth>0.16</hairpinWidth>
+    <hairpinWidth>0.13</hairpinWidth>
     <hairpinFontFace>Edwin</hairpinFontFace>
     <hairpinFontSize>10</hairpinFontSize>
     <hairpinLineSpacing>1</hairpinLineSpacing>
@@ -205,7 +205,7 @@
     <pedalPlacement>1</pedalPlacement>
     <pedalPosAbove x="0" y="-1"/>
     <pedalPosBelow x="0" y="2.5"/>
-    <pedalLineWidth>0.16</pedalLineWidth>
+    <pedalLineWidth>0.15</pedalLineWidth>
     <pedalLineStyle>solid</pedalLineStyle>
     <pedalDashLineLen>4</pedalDashLineLen>
     <pedalDashGapLen>4</pedalDashGapLen>
@@ -361,7 +361,7 @@
     <chordModifierAdjust>0</chordModifierAdjust>
     <concertPitch>0</concertPitch>
     <multiVoiceRestTwoSpaceOffset>0</multiVoiceRestTwoSpaceOffset>
-    <createMultiMeasureRests>0</createMultiMeasureRests>
+    <createMultiMeasureRests>1</createMultiMeasureRests>
     <minEmptyMeasures>2</minEmptyMeasures>
     <minMMRestWidth>6</minMMRestWidth>
     <mmRestNumberPos>-0.5</mmRestNumberPos>
@@ -390,8 +390,8 @@
     <ArpeggioLineWidth>0.18</ArpeggioLineWidth>
     <ArpeggioHookLen>0.8</ArpeggioHookLen>
     <ArpeggioHiddenInStdIfTab>0</ArpeggioHiddenInStdIfTab>
-    <slurEndWidth>0.1</slurEndWidth>
-    <slurMidWidth>0.22</slurMidWidth>
+    <slurEndWidth>0.07</slurEndWidth>
+    <slurMidWidth>0.15</slurMidWidth>
     <slurDottedWidth>0.1</slurDottedWidth>
     <minTieLength>1</minTieLength>
     <minStraightGlissandoLength>1.2</minStraightGlissandoLength>
@@ -403,8 +403,8 @@
     <tieMinShoulderHeight>0.3</tieMinShoulderHeight>
     <tieMaxShoulderHeight>2</tieMaxShoulderHeight>
     <sectionPause>3</sectionPause>
-    <musicalSymbolFont>Bravura</musicalSymbolFont>
-    <musicalTextFont>Bravura Text</musicalTextFont>
+    <musicalSymbolFont>Emmentaler</musicalSymbolFont>
+    <musicalTextFont>MScore Text</musicalTextFont>
     <showHeader>1</showHeader>
     <headerFirstPage>0</headerFirstPage>
     <headerOddEven>1</headerOddEven>
@@ -425,7 +425,7 @@
     <oddFooterR></oddFooterR>
     <voltaPosAbove x="0" y="-3"/>
     <voltaHook>2.2</voltaHook>
-    <voltaLineWidth>0.16</voltaLineWidth>
+    <voltaLineWidth>0.1</voltaLineWidth>
     <voltaLineStyle>solid</voltaLineStyle>
     <voltaDashLineLen>5</voltaDashLineLen>
     <voltaDashGapLen>5</voltaDashGapLen>
@@ -477,7 +477,7 @@
     <ottavaPosBelow x="0" y="2"/>
     <ottavaHookAbove>1</ottavaHookAbove>
     <ottavaHookBelow>-1</ottavaHookBelow>
-    <ottavaLineWidth>0.16</ottavaLineWidth>
+    <ottavaLineWidth>0.1</ottavaLineWidth>
     <ottavaLineStyle>dashed</ottavaLineStyle>
     <ottavaDashLineLen>6</ottavaDashLineLen>
     <ottavaDashGapLen>6</ottavaDashGapLen>
@@ -516,7 +516,7 @@
     <tupletStemRightDistance>0.5</tupletStemRightDistance>
     <tupletNoteLeftDistance>0</tupletNoteLeftDistance>
     <tupletNoteRightDistance>0</tupletNoteRightDistance>
-    <tupletBracketWidth>0.16</tupletBracketWidth>
+    <tupletBracketWidth>0.1</tupletBracketWidth>
     <tupletDirection>0</tupletDirection>
     <tupletNumberType>0</tupletNumberType>
     <tupletBracketType>0</tupletBracketType>
@@ -542,7 +542,7 @@
     <ornamentStyle>0</ornamentStyle>
     <autoplaceHairpinDynamicsDistance>0.5</autoplaceHairpinDynamicsDistance>
     <dynamicsOverrideFont>0</dynamicsOverrideFont>
-    <dynamicsFont>Bravura</dynamicsFont>
+    <dynamicsFont>Emmentaler</dynamicsFont>
     <dynamicsSize>1</dynamicsSize>
     <dynamicsPlacement>1</dynamicsPlacement>
     <dynamicsPosAbove x="0" y="-1.5"/>
@@ -1433,6 +1433,6 @@
     <chordlineThickness>0.16</chordlineThickness>
     <autoplaceEnabled>1</autoplaceEnabled>
     <defaultsVersion>410</defaultsVersion>
-    <Spatium>1.2954</Spatium>
+    <Spatium>1.74978</Spatium>
     </Style>
   </museScore>

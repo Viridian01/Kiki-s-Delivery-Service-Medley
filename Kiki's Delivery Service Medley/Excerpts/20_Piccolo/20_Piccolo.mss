@@ -361,7 +361,7 @@
     <chordModifierAdjust>0</chordModifierAdjust>
     <concertPitch>0</concertPitch>
     <multiVoiceRestTwoSpaceOffset>0</multiVoiceRestTwoSpaceOffset>
-    <createMultiMeasureRests>0</createMultiMeasureRests>
+    <createMultiMeasureRests>1</createMultiMeasureRests>
     <minEmptyMeasures>2</minEmptyMeasures>
     <minMMRestWidth>6</minMMRestWidth>
     <mmRestNumberPos>-0.5</mmRestNumberPos>
@@ -1433,6 +1433,6 @@
     <chordlineThickness>0.16</chordlineThickness>
     <autoplaceEnabled>1</autoplaceEnabled>
     <defaultsVersion>410</defaultsVersion>
-    <Spatium>1.2954</Spatium>
+    <Spatium>1.74978</Spatium>
     </Style>
   </museScore>
